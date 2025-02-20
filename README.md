@@ -1,4 +1,4 @@
-# LeetPush Chrome Extension
+# LeetCode Extension
 
 ![License](https://img.shields.io/github/license/husamahmud/LeetPush)
 ![Version](https://img.shields.io/chrome-web-store/v/gmagfdabfjaipjgdfgddjgongeemkalf)
@@ -10,11 +10,11 @@
 ![Stars](https://img.shields.io/github/stars/husamahmud/LeetPush)
 
 
-<img src="/assets/logo.jpeg" alt="">
 
-## What is LeetPush?
 
-LeetPush is a powerful Chrome extension designed for LeetCode enthusiasts who
+## What is LeetCode Extension?
+
+LeetCode Extension is a powerful Chrome extension designed for LeetCode enthusiasts who
 wish to automate the process of pushing their coding solutions directly to their
 GitHub repositories.
 
@@ -29,24 +29,11 @@ GitHub repositories.
 - Customization: Choose which solutions to push and manage different
   repositories if needed.
 
-### Installation and Usage:
 
-- Download LeetPush from the Chrome Web Store: [**Link**](https://chromewebstore.google.com/detail/leetpush/gmagfdabfjaipjgdfgddjgongeemkalf?hl=en-GB&authuser=0)
-- Generate a personal access token on GitHub with repository
-  access. [**Link**](https://scribehow.com/shared/Generating_a_personal_access_token_on_GitHub__PUPxxuxIRQmlg1MUE-2zig)
-- Solve a problem on LeetCode and click on the `Push` button.
-- Enter your GitHub username, repository name, and the access token.
-- Click on `Push` to push the solution to your GitHub repository.
 
-### Explanation Video
-
-[![Watch the Explanation Video](http://img.youtube.com/vi/7psCr_Pu7GA/0.jpg)](https://www.youtube.com/watch?v=7psCr_Pu7GA)
 
 ### Contributing:
 
 We welcome contributions! Feel free to open issues or pull requests to help
 improve the extension.
 
-### License:
-
-[MIT](LICENSE)
